@@ -1,9 +1,9 @@
 {
-  "name": "jquery-network-camera",
+  "name": "jQuery_Network_Camera",
   "description": "A jQuery plugin for rendering network camera image streams.",
   "main": "jquery.network-camera.js",
   "authors": [
-    "Gunther Cox"
+    "Rexinazor"
   ],
   "license": "MIT",
   "keywords": [
@@ -13,7 +13,7 @@
     "camera",
     "feed"
   ],
-  "homepage": "https://github.com/gunthercox/jquery-network-camera",
+  "homepage": "https://github.com/Rexinazor/jQuery_Network_Camera",
   "ignore": [
     "**/.*",
     "node_modules",
