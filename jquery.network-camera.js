@@ -1,9 +1,4 @@
-/*!
- * jQuery Network Camera v0.0.1
- * (https://github.com/gunthercox/jquery-network-camera)
- * Copyright 2015 Gunther Cox
- * Licensed under the MIT license
- */
+
 
 ;(function ($, window, document, undefined) {
 
